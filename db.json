@@ -1,0 +1,55 @@
+{
+  "refridgerators": [
+    {
+      "id": 1,
+      "brand": "Frigidare",
+      "product": "refridgerator",
+      "model": "REF28",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "brand": "Frigidare",
+      "product": "refridgerator",
+      "model": "REF38",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "brand": "Frigidare",
+      "product": "refridgerator",
+      "model": "CENT300",
+      "price": 10000
+    },
+    {
+      "id": 5,
+      "brand": "Frigidare",
+      "product": "refridgerator",
+      "model": "CENT20",
+      "price": 3000
+    },
+    {
+      "id": 6,
+      "brand": "Frigidare",
+      "product": "refridgerator",
+      "model": "REFI28",
+      "price": 400
+    },
+    {
+      "id": 7,
+      "brand": "Frigidare",
+      "product": "refridgerator",
+      "model": "REF3I8",
+      "price": 300
+    }
+  ],
+  "air_conditioners": [
+    {
+      "id": 3,
+      "brand": "Frigidare",
+      "product": "air conditioner",
+      "model": "AIR38",
+      "price": 500
+    }
+  ]
+}
