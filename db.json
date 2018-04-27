@@ -1,5 +1,5 @@
 {
-  "refridgerators": [
+  "products": [
     {
       "id": 1,
       "brand": "Frigidare",
@@ -41,15 +41,34 @@
       "product": "refridgerator",
       "model": "REF3I8",
       "price": 300
-    }
-  ],
-  "air_conditioners": [
+    },
     {
       "id": 3,
       "brand": "Frigidare",
-      "product": "air conditioner",
+      "product": "air_conditioner",
       "model": "AIR38",
       "price": 500
+    },
+    {
+      "id": 3,
+      "brand": "Frigidare",
+      "product": "air_conditioner",
+      "model": "AIR48",
+      "price": 1500
+    },
+    {
+      "id": 3,
+      "brand": "Frigidare",
+      "product": "dryer",
+      "model": "DRY18",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "brand": "Frigidare",
+      "product": "washer",
+      "model": "WASH18",
+      "price": 200
     }
   ]
 }
