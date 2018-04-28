@@ -32,12 +32,14 @@ View.prototype = {
     // Get what to search for
     getInput: function () {
         // Checkboxes available
+        var brands = $('.brands:checked');
         var products = $('.products:checked');
         var prices = $('.prices:checked');
         // See what is checked and form search part of url
+        var brandsChecked = format(brands);
         var productsChecked = format(products);
         var pricesChecked = format(prices);
-        var searchUrl = productsChecked + pricesChecked;
+        var searchUrl = brandsChecked + productsChecked + pricesChecked;
         console.log("This is the search criteria " + searchUrl);
         Controller.prototype.getData(searchUrl);
     },

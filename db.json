@@ -4,71 +4,141 @@
       "id": 1,
       "brand": "Frigidare",
       "product": "refridgerator",
-      "model": "REF28",
+      "model": "REF-28",
       "price": 1000
     },
     {
       "id": 2,
       "brand": "Frigidare",
       "product": "refridgerator",
-      "model": "REF38",
+      "model": "REF-38",
       "price": 1500
+    },
+    {
+      "id": 3,
+      "brand": "Frigidare",
+      "product": "refridgerator",
+      "model": "INDUST-300",
+      "price": 10000
     },
     {
       "id": 4,
       "brand": "Frigidare",
       "product": "refridgerator",
-      "model": "CENT300",
-      "price": 10000
-    },
-    {
-      "id": 5,
-      "brand": "Frigidare",
-      "product": "refridgerator",
-      "model": "CENT20",
+      "model": "CENT-20",
       "price": 3000
     },
     {
-      "id": 6,
+      "id": 5,
       "brand": "Frigidare",
       "product": "refridgerator",
       "model": "REFI28",
       "price": 400
     },
     {
-      "id": 7,
+      "id": 6,
       "brand": "Frigidare",
       "product": "refridgerator",
       "model": "REF3I8",
       "price": 300
     },
     {
-      "id": 3,
+      "id": 7,
       "brand": "Frigidare",
       "product": "air_conditioner",
-      "model": "AIR38",
+      "model": "AIR-38",
       "price": 500
     },
     {
-      "id": 3,
+      "id": 8,
       "brand": "Frigidare",
       "product": "air_conditioner",
-      "model": "AIR48",
+      "model": "AIR-48",
       "price": 1500
     },
     {
-      "id": 3,
-      "brand": "Frigidare",
+      "id": 9,
+      "brand": "Whirpool",
       "product": "dryer",
-      "model": "DRY18",
+      "model": "DRY-118",
       "price": 200
     },
     {
-      "id": 3,
-      "brand": "Frigidare",
+      "id": 10,
+      "brand": "Whirpool",
+      "product": "washer",
+      "model": "WASH-118",
+      "price": 200
+    },
+    {
+      "id": 11,
+      "brand": "Whirpool",
+      "product": "refridgerator",
+      "model": "WH-28",
+      "price": 800
+    },
+    {
+      "id": 12,
+      "brand": "Whirpool",
+      "product": "refridgerator",
+      "model": "WH-38",
+      "price": 1500
+    },
+    {
+      "id": 13,
+      "brand": "Whirpool",
+      "product": "refridgerator",
+      "model": "WH-300",
+      "price": 7000
+    },
+    {
+      "id": 14,
+      "brand": "Whirpool",
+      "product": "refridgerator",
+      "model": "WH-20",
+      "price": 3000
+    },
+    {
+      "id": 15,
+      "brand": "Carrier",
+      "product": "air_conditioner",
+      "model": "CARICENT-2I8",
+      "price": 14000
+    },
+    {
+      "id": 16,
+      "brand": "Carrier",
+      "product": "air_conditioner",
+      "model": "CARICENT-3I8",
+      "price": 10300
+    },
+    {
+      "id": 17,
+      "brand": "Amana",
+      "product": "air_conditioner",
+      "model": "AM-AIR38",
+      "price": 500
+    },
+    {
+      "id": 18,
+      "brand": "Amana",
+      "product": "air_conditioner",
+      "model": "AmanaAIR48",
+      "price": 800
+    },
+    {
+      "id": 18,
+      "brand": "Whirpool",
+      "product": "dryer",
+      "model": "DRY18",
+      "price": 150
+    },
+    {
+      "id": 19,
+      "brand": "Wirpool",
       "product": "washer",
       "model": "WASH18",
-      "price": 200
+      "price": 150
     }
   ]
 }
