@@ -67,12 +67,13 @@ var Controller = function () {
 }
 
 Controller.prototype = {
-    getData: function (searchCriteria) {
+    getData: function () {
         $.ajax({
-            url: 'http://localhost:3001/products?' + searchCriteria
+            url: 'https://api.nal.usda.gov/ndb/V2/reports?ndbno=01009&ndbno=45202763&ndbno=35193&type=f&format=json&api_key=' + 'LCq7LLOBaxJCQLuNE6YcTTmBmv0wfCcKsU2sPdSC'
         })
             .then(function (response) {
-                View.prototype.displayResults(response);
+                console.log(response.foods[0].food.nutrients);
+                View.prototype.displayResults(response.foods[0].food);
             }); // AJAX
     }
 }// Controller prototypes
